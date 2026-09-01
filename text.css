@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(230, 233, 234);
+}
+h1 
+{
+color: blue;
+text-align:center;
+font-family:"Playfair Display", serif;
+}
+p{
+font-size: larger;
+  font-family:"Oswald", sans-serif;
+  color: black;
+  text-align: justify;
+}
+a{
+ display: inline-block;
+ background-color: rgb(121, 121, 222);  
+ color: black; 
+ padding: 10px 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+

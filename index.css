@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.hdr{
+    width: 95%;
+    height: 50px;
+    background-color: rgb(227, 229, 231);
+    padding: 10px 30PX;
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+}
+
+.navigation {
+   display: flex;
+   gap: 20px;
+}
+ a{
+    color: black;
+    text-decoration: none; 
+ }
+ .bn{
+    height: 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: aliceblue;
+   
+}
+section
+.hero{
+    background-color: rgb(114, 45, 146);
+    color: aliceblue;
+    height: 300px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
+}
+.b1{
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(174, 101, 241);
+    color: aliceblue;
+}
+.b2{
+    height: 30px;
+    border-radius: 10px; 
+    background-color: rgb(80, 80, 198); color: aliceblue;
+}
+
+/* The feure */
+.feure{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column ; 
+    margin: 20px;
+}
+/* the block */
+.box-1{
+    background-color: aquamarine;
+    height: 20px;
+    width: 10%;
+     border-radius:10px ;
+
+}
+.img{
+    height: 20px;
+    width: 10%;
+}
